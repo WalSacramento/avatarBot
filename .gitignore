@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração do ambiente virtual
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*.DS_Store
+
+# Arquivos de cache
+.cache/
+*.cache
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Arquivos de pacotes
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+
+# Arquivos de distribuição
+*.wheel
+
+# Arquivos de teste
+.coverage
+.tox/
+.nox/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Arquivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de configuração do sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Arquivos de configuração do Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos de configuração do projeto
+*.env
